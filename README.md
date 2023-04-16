@@ -22,4 +22,4 @@ Example: doskey search=".bat path file here"
 
 Add the macro definition file to the Autorun registry key: Open the Registry Editor by pressing the Windows key + R, typing regedit, and pressing Enter. Navigate to the following key: HKEY_CURRENT_USER\Software\Microsoft\Command Processor. Right-click on the right pane and select New > String Value. Name the new value Autorun. Double-click on the new value and set its data to doskey /macrofile="<path to your macro definition file>", replacing <path to your macro definition file> with the actual path to your macro definition file.
 
-After completing these steps, your DOSKEY macros will be automatically loaded every time you open a new Command Prompt window1.
+After completing these steps, your DOSKEY macros will be automatically loaded every time you open a new Command Prompt window.
