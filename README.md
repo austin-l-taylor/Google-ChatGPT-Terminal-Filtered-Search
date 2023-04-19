@@ -1,4 +1,4 @@
-# Google_ChatGPT_Terminal_Search
+# Google_ChatGPT_TerminalSearch
 PLease Read Comments and make sure you understand the code before utilizing.
 
 Basic functions:
