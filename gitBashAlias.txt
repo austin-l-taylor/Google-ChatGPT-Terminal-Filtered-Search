@@ -1,0 +1,1 @@
+alias s='python /c/Developer/Google_ChatGPT_TerminalSearch/main.py'
